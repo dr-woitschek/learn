@@ -1,13 +1,13 @@
 
-## solution - Computer Innenleben
+**solution - Computer Innenleben**
 
 ---
 
-## 1. Aus welchen Komponenten besteht ein Computer? Beschreibe die einzelnen Komponenten kurz und deren Aufgabe/Funktion.
+**1. Aus welchen Komponenten besteht ein Computer? Beschreibe die einzelnen Komponenten kurz und deren Aufgabe/Funktion.**
 
 Ein Computer besteht aus mehreren grundlegenden Komponenten, die zusammenarbeiten, um verschiedene Aufgaben auszuführen und die Funktionalität des Computers sicherzustellen.
 
-#### Hier sind die wichtigsten Komponenten eines typischen Computers und deren Aufgaben:
+Hier sind die wichtigsten Komponenten eines typischen Computers und deren Aufgaben:
 
 1. **Zentrale Verarbeitungseinheit (CPU)**:
 Die CPU ist das "Gehirn" des Computers. Sie führt alle Berechnungen und Verarbeitungsprozesse aus, die für die Ausführung von Programmen und Anwendungen erforderlich sind.
@@ -40,7 +40,7 @@ Diese Komponenten arbeiten zusammen, um einen Computer funktionsfähig zu machen
 
 ---
 
-## 2. Was ist ESD bzw. "electrostatic discharge"?
+**2. Was ist ESD bzw. "electrostatic discharge"?**
 
 Die Abkürzung "ESD" steht für "Elektrostatische Entladung" (englisch: Electrostatic Discharge). ESD ist ein Phänomen, bei dem sich elektrostatische Ladungen, die auf der Oberfläche oder in einem Objekt aufgebaut wurden, plötzlich entladen. Diese Entladung kann zu einem elektrischen Stromstoß führen, der sich auf andere elektronische Komponenten oder empfindliche Geräte auswirken kann.
 
