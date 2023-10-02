@@ -8,5 +8,6 @@
 * [DHCP und DNS](https://github.com/dr-woitschek/learn/tree/main/DHCP_DNS/)
 * [Dateisysteme](https://github.com/dr-woitschek/learn/tree/main/Dateisysteme/)
 * [Firewall](https://github.com/dr-woitschek/learn/tree/main/Firewall/)
+* [Netzwerkfreigaben](https://github.com/dr-woitschek/learn/tree/main/Netzwerkfreigaben/)
 
 ---
