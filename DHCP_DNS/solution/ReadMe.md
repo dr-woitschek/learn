@@ -1,13 +1,13 @@
 
-## solution - DHCP/DNS
+**solution - DHCP/DNS**
 
 ---
 
-## 1. Was ist DHCP bzw. Dynamic Host Configuration Protocol?
+**1. Was ist DHCP bzw. Dynamic Host Configuration Protocol?**
 
 Das Dynamic Host Configuration Protocol (DHCP) ist ein Netzwerkprotokoll, das in Computernetzwerken verwendet wird, um die automatische Zuweisung von IP-Adressen und anderen Netzwerkeinstellungen an Computer und andere Geräte zu ermöglichen. DHCP erleichtert die Verwaltung von IP-Adressen in einem Netzwerk, insbesondere in großen Netzwerken, in denen die manuelle Konfiguration jedes einzelnen Geräts unpraktisch wäre.
 
-#### Hier sind die Hauptfunktionen und -vorteile von DHCP:
+Hier sind die Hauptfunktionen und -vorteile von DHCP:
 
 1. **Automatische IP-Adresszuweisung**: DHCP ermöglicht es einem Computer oder einem anderen Netzwerkgerät, eine IP-Adresse automatisch zu erhalten, wenn es sich in das Netzwerk einwählt oder neu startet. Dadurch wird verhindert, dass IP-Adressen manuell konfiguriert werden müssen.
 2. **IP-Adress-Pool**: In einem DHCP-Server werden IP-Adressen in einem Pool verwaltet. Wenn ein Gerät eine Netzwerkverbindung herstellt und eine IP-Adresse benötigt, vergibt der DHCP-Server eine verfügbare IP-Adresse aus diesem Pool.
@@ -22,11 +22,11 @@ Insgesamt ist DHCP ein wesentlicher Bestandteil von modernen Computernetzwerken,
 
 ---
 
-## 2. Warum benutzt man DHCP?
+**2. Warum benutzt man DHCP?**
 
 DHCP (Dynamic Host Configuration Protocol) wird aus verschiedenen Gründen in Computernetzwerken verwendet, insbesondere in größeren und komplexeren Netzwerken.
 
-#### Hier sind einige der Hauptgründe, warum man DHCP einsetzt:
+Hier sind einige der Hauptgründe, warum man DHCP einsetzt:
 
 1. **Automatische IP-Adresszuweisung**: DHCP ermöglicht die automatische Zuweisung von IP-Adressen an Computer und andere Netzwerkgeräte. Dies erleichtert die Einrichtung von Geräten, da Benutzer oder Administratoren nicht manuell IP-Adressen konfigurieren müssen.
 2. **Effizienz**: DHCP rationalisiert die Verwaltung von IP-Adressen, da es sicherstellt, dass IP-Adressen nur dann verwendet werden, wenn Geräte aktiv sind und eine Verbindung zum Netzwerk herstellen. Dadurch wird eine effiziente Nutzung von IP-Adressen gewährleistet.
@@ -43,11 +43,11 @@ Insgesamt bietet DHCP eine praktische und effiziente Möglichkeit, IP-Adressen u
 
 ---
 
-## 3. Welche Zuordnungsarten gibt es bei DHCP und was ist der Unterschied zwischen diesen?
+**3. Welche Zuordnungsarten gibt es bei DHCP und was ist der Unterschied zwischen diesen?**
 
 DHCP (Dynamic Host Configuration Protocol) bietet verschiedene Arten der IP-Adresszuordnung. Jede dieser Zuordnungsarten hat ihren eigenen Zweck und ihre eigenen Einsatzszenarien.
 
-#### Hier sind die drei Hauptarten der IP-Adresszuordnung in DHCP und deren Unterschiede:
+Hier sind die drei Hauptarten der IP-Adresszuordnung in DHCP und deren Unterschiede:
 
 1. **Dynamische Zuordnung (Dynamic Allocation)**:
    - **Funktionsweise**: Bei der dynamischen Zuordnung wird dem DHCP-Client eine IP-Adresse aus dem Pool verfügbarer Adressen zugewiesen, wenn er eine Netzwerkverbindung herstellt oder neu startet.
@@ -66,11 +66,11 @@ Die Wahl der richtigen Zuordnungsart hängt von den Anforderungen und dem Netzwe
 
 ---
 
-## 4. DHCPv6?
+**4. DHCPv6?**
 
 DHCPv6 steht für "Dynamic Host Configuration Protocol version 6" und ist die Version des DHCP-Protokolls, die speziell für die Vergabe von IPv6-Adressen in Netzwerken entwickelt wurde. IPv6 (Internet Protocol version 6) ist die neueste Version des Internetprotokolls und wurde entwickelt, um den Erschöpfungsproblemen des bisherigen IPv4-Protokolls (Internet Protocol version 4) entgegenzuwirken, indem es einen größeren Adressraum bietet.
 
-#### Hier sind einige wichtige Merkmale und Funktionen von DHCPv6:
+Hier sind einige wichtige Merkmale und Funktionen von DHCPv6:
 
 1. **IPv6-Adresszuweisung**: DHCPv6 ermöglicht die automatische Zuweisung von IPv6-Adressen an Netzwerkgeräte, ähnlich wie bei DHCP für IPv4. Dies erleichtert die Konfiguration und Verwaltung von IPv6-Adressen in Netzwerken.
 2. **Zusätzliche Konfigurationsoptionen**: Neben der Vergabe von IPv6-Adressen kann DHCPv6 auch zusätzliche Netzwerkkonfigurationsoptionen bereitstellen, wie z. B. die Zuweisung von DNS-Server-Adressen, Domainnamen und anderen relevanten Einstellungen.
@@ -85,11 +85,11 @@ Die Einführung von IPv6 und DHCPv6 ist entscheidend, da der Adressraum von IPv4
 
 ---
 
-## 5. Was ist DNS bzw. Domain Name System?
+**5. Was ist DNS bzw. Domain Name System?**
 
 Das Domain Name System (DNS) ist ein wesentlicher Bestandteil des Internets und dient dazu, menschenfreundliche Domainnamen in numerische IP-Adressen umzuwandeln und umgekehrt. Es handelt sich um ein verteiltes Hierarchiesystem, das die Zuordnung von Domainnamen zu IP-Adressen verwaltet und somit die Grundlage für die Kommunikation im Internet bildet.
 
-#### Hier sind die Hauptfunktionen und -aufgaben des Domain Name Systems:
+Hier sind die Hauptfunktionen und -aufgaben des Domain Name Systems:
 
 1. **Namensauflösung**: Die zentrale Aufgabe des DNS besteht darin, Domainnamen (z. B. www.example.com) in numerische IP-Adressen (z. B. 192.0.2.1) aufzulösen. Dies ermöglicht es Computern und anderen Geräten, sich gegenseitig im Internet zu finden.
 2. **Hierarchische Struktur**: Das DNS ist hierarchisch organisiert und besteht aus verschiedenen Ebenen. Die höchste Ebene ist das Wurzelverzeichnis (root), gefolgt von Top-Level-Domains (TLDs) wie .com, .org, .net usw. Jede TLD kann Subdomänen (z. B. example.com) enthalten, die weiter unterteilt sein können.
@@ -104,11 +104,11 @@ Das DNS ist von entscheidender Bedeutung für das Funktionieren des Internets, d
 
 ---
 
-## 6. Erkläre die Datei "hosts"?
+**6. Erkläre die Datei "hosts"?**
 
 Die Datei "hosts" ist eine Textdatei, die auf vielen Betriebssystemen verwendet wird, um die Zuordnung von IP-Adressen zu Hostnamen (Domainnamen oder Computernamen) auf lokaler Ebene festzulegen. Diese Datei dient als eine Art lokales DNS (Domain Name System) und ermöglicht es einem Computer, bestimmte Domainnamen mit spezifischen IP-Adressen zu verknüpfen, ohne auf externe DNS-Server zugreifen zu müssen.
 
-#### Hier sind einige wichtige Informationen zur Datei "hosts":
+Hier sind einige wichtige Informationen zur Datei "hosts":
 
 1. **Verwendungszweck**: Die "hosts"-Datei wird verwendet, um eine manuelle Zuordnung von Hostnamen zu IP-Adressen auf einem lokalen Computer vorzunehmen. Dies ermöglicht es einem Benutzer, bestimmte Domains oder Hosts zu blockieren oder auf spezifische IP-Adressen umzuleiten.
 2. **Speicherort**: Auf den meisten Unix- und Unix-ähnlichen Betriebssystemen wie Linux und macOS sowie auf Windows-Betriebssystemen befindet sich die "hosts"-Datei normalerweise in einem Systemverzeichnis. Auf Unix-basierten Systemen ist der Pfad oft "/etc/hosts", während er auf Windows-Systemen normalerweise unter "C:\Windows\System32\drivers\etc\hosts" liegt.
@@ -128,11 +128,11 @@ Die "hosts"-Datei bietet eine einfache Möglichkeit, lokale Netzwerkkonfiguratio
 
 ---
 
-## 7. Erkläre die Datei "services"?
+**7. Erkläre die Datei "services"?**
 
 Die "services"-Datei ist eine Textdatei, die auf Unix- und Unix-ähnlichen Betriebssystemen wie Linux und macOS verwendet wird, um Portnummern und die zugehörigen Dienste oder Anwendungen zu verknüpfen. Diese Datei dient zur Dokumentation und Zuordnung von Diensten und Ports, die auf einem Computer oder in einem Netzwerk verfügbar sind. Sie bietet eine Möglichkeit, Portnummern in leicht verständliche Dienstnamen umzuwandeln.
 
-#### Hier sind einige wichtige Informationen zur "services"-Datei:
+Hier sind einige wichtige Informationen zur "services"-Datei:
 
 1. **Verwendungszweck**: Die "services"-Datei enthält eine Liste von Portnummern, die in Netzwerkkommunikation und -diensten verwendet werden, sowie die zugehörigen Diensten oder Anwendungen, die auf diesen Ports lauschen oder diese verwenden. Dies dient dazu, die Zuordnung von Portnummern zu Diensten zu dokumentieren und zu erleichtern.
 2. **Speicherort**: Die "services"-Datei befindet sich normalerweise im Verzeichnis "/etc" auf Unix- und Unix-ähnlichen Systemen. Der vollständige Pfad zur Datei ist in der Regel "/etc/services".
@@ -154,13 +154,13 @@ Die "services"-Datei ist eine nützliche Ressource für Systemadministratoren un
 
 ---
 
-## 8. Was ist URL bzw. Uniform Resource Locator?
+**8. Was ist URL bzw. Uniform Resource Locator?**
 
 Eine URL, oder Uniform Resource Locator, ist eine Zeichenfolge, die verwendet wird, um eine Ressource im Internet oder in einem Computernetzwerk zu identifizieren und auf sie zuzugreifen. URLs sind ein grundlegender Bestandteil des World Wide Web und dienen dazu, Webseiten, Dateien, Bilder, Videos und andere Arten von Ressourcen zu lokalisieren.
 
 Eine typische URL besteht aus mehreren Teilen, die Informationen über den Ort und den Typ der Ressource liefern.
 
-#### Hier sind die wichtigsten Komponenten einer URL:
+Hier sind die wichtigsten Komponenten einer URL:
 
 1. **Protokoll (Scheme)**: Das Protokoll gibt an, wie die Ressource abgerufen werden soll. Die am häufigsten verwendeten Protokolle sind "http://" und "https://" für Webseiten, "ftp://" für den Dateitransfer, "mailto:" für E-Mails und "file://" für lokale Dateizugriffe.
 2. **Hostname (Domain)**: Der Hostname ist die Adresse des Servers, auf dem die Ressource gehostet ist. Dies kann eine Domain (z. B. www.example.com) oder eine IP-Adresse (z. B. 192.0.2.1) sein.
@@ -186,11 +186,11 @@ URLs sind eine grundlegende Komponente des Internets und ermöglichen es Benutze
 
 ---
 
-## 9. Was hat DNS mit URL zu tun?
+**9. Was hat DNS mit URL zu tun?**
 
 DNS (Domain Name System) und URLs (Uniform Resource Locators) sind eng miteinander verbunden, da DNS dazu dient, die Auflösung von Hostnamen in IP-Adressen zu ermöglichen, was wiederum für die Identifikation von Ressourcen in URLs erforderlich ist.
 
-#### Hier ist, wie DNS und URLs zusammenarbeiten:
+Hier ist, wie DNS und URLs zusammenarbeiten:
 
 1. **Namensauflösung**: Wenn Sie eine URL in einen Webbrowser oder eine andere Anwendung eingeben, muss der Hostname in der URL (z. B. www.example.com) in eine numerische IP-Adresse (z. B. 192.0.2.1) aufgelöst werden, damit Ihr Computer die richtige Ressource im Internet finden kann. Dieser Schritt wird als Namensauflösung bezeichnet.
 2. **DNS-Auflösung**: Um die Namensauflösung durchzuführen, sendet Ihre Anwendung eine DNS-Anfrage an einen DNS-Server. Dieser DNS-Server ist normalerweise von Ihrem Internetdienstanbieter (ISP) bereitgestellt oder von einem öffentlichen DNS-Server wie Google DNS oder OpenDNS betrieben.
@@ -202,11 +202,11 @@ Insgesamt spielt DNS eine entscheidende Rolle bei der Umwandlung von menschenfre
 
 ---
 
-## 10. DNSSEC?
+**10. DNSSEC?**
 
 DNSSEC steht für "DNS Security Extensions" und ist eine Reihe von Sicherheitserweiterungen für das Domain Name System (DNS). DNSSEC wurde entwickelt, um die Integrität, Authentizität und Sicherheit von DNS-Daten zu erhöhen und bestimmte Arten von DNS-Angriffen zu verhindern oder zu erschweren.
 
-#### Hier sind die Hauptziele und -funktionen von DNSSEC:
+Hier sind die Hauptziele und -funktionen von DNSSEC:
 
 1. **Integrität der DNS-Daten**: DNSSEC gewährleistet die Integrität der DNS-Daten, indem es sicherstellt, dass die DNS-Antworten während der Übertragung nicht manipuliert wurden. Dies wird durch die Verwendung von kryptografischen Signaturen erreicht, die die DNS-Daten schützen.
 2. **Authentifizierung von DNS-Daten**: DNSSEC ermöglicht die Authentifizierung von DNS-Daten. Dies bedeutet, dass ein DNS-Resolver sicherstellen kann, dass die empfangenen DNS-Antworten tatsächlich von einem autoritativen DNS-Server stammen und nicht von einem Angreifer gefälscht wurden.
