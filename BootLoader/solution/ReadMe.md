@@ -1,13 +1,13 @@
 
-## solution - BootLoader
+**solution - BootLoader**
 
 ---
 
-## 1. Was ist MBR bzw. Master Boot Record?
+1. Was ist MBR bzw. Master Boot Record?
 
 Der Master Boot Record (MBR) ist ein wichtiger Teil des Speicherbereichs auf einer Festplatte oder einem anderen Speichergerät. Er spielt eine entscheidende Rolle beim Starten eines Computers und beim Laden des Betriebssystems.
 
-#### Hier sind einige wichtige Informationen zum Master Boot Record:
+Hier sind einige wichtige Informationen zum Master Boot Record:
 
 1. **Lage:** Der MBR befindet sich in den ersten 512 Bytes (das erste Sektor) einer Festplatte oder eines Speichergeräts. Es ist der allererste Sektor auf dem Datenträger.
 2. **Funktion**: Die Hauptaufgabe des MBR besteht darin, den Startvorgang des Computers zu initiieren. Wenn du deinen Computer einschaltest, sucht das BIOS (Basic Input/Output System) nach dem MBR, um den Bootloader zu finden. Der Bootloader ist ein kleines Programm, das das Betriebssystem lädt.
@@ -20,11 +20,11 @@ Insgesamt ist der Master Boot Record ein wichtiger Bestandteil des Startvorgangs
 
 ---
 
-## 2. Was ist GPT bzw. GUID Partition Table?
+2. Was ist GPT bzw. GUID Partition Table?
 
 Die GPT (GUID Partition Table) ist eine moderne Methode zur Partitionierung von Festplatten und anderen Speichergeräten auf Computern. Sie ersetzt den älteren MBR (Master Boot Record) als Standardpartitionierungsschema in modernen Computern.
 
-#### Hier sind einige wichtige Informationen zur GPT:
+Hier sind einige wichtige Informationen zur GPT:
 
 1. **GUID**: Die Abkürzung "GUID" steht für "Globally Unique Identifier". Jede Partition auf einer Festplatte, die nach dem GPT-Schema erstellt wurde, erhält eine eindeutige GUID. Dies ermöglicht eine zuverlässige Identifizierung und Verwaltung von Partitionen, auch wenn mehrere Festplatten im System vorhanden sind.
 2. **Größe**: Im Gegensatz zum MBR, der auf 512 Bytes begrenzt ist, bietet die GPT eine erheblich größere Partitionstabelle. Dies bedeutet, dass sie eine größere Anzahl von Partitionen auf einer Festplatte unterstützen kann.
@@ -38,11 +38,11 @@ Insgesamt bietet die GPT eine verbesserte und flexiblere Methode zur Partitionie
 
 ---
 
-## 3. Was ist BIOS bzw. Basic Input Output System?
+3. Was ist BIOS bzw. Basic Input Output System?
 
 Das BIOS (Basic Input/Output System) ist ein essenzielles Firmware-Programm, das in Computern und anderen Geräten verwendet wird, um grundlegende Hardwarefunktionen zu steuern und den Startvorgang des Computers zu initialisieren.
 
-#### Hier sind einige wichtige Informationen zum BIOS:
+Hier sind einige wichtige Informationen zum BIOS:
 
 1. **Hardwareinitialisierung**: Das BIOS ist dafür verantwortlich, die grundlegenden Hardwarekomponenten des Computers zu initialisieren, einschließlich der CPU (Central Processing Unit), des Arbeitsspeichers (RAM), der Festplatten, der Grafikkarte und anderer wichtiger Peripheriegeräte.
 2. **Bootvorgang**: Während des Bootvorgangs des Computers sucht das BIOS nach einem Bootgerät, von dem es das Betriebssystem laden kann. Dies kann eine Festplatte, eine SSD, ein USB-Laufwerk oder ein CD/DVD-Laufwerk sein. Das BIOS verwendet normalerweise den Master Boot Record (MBR) oder das GPT-Partitionierungsschema, um das Bootgerät zu identifizieren und den Bootloader zu starten.
@@ -56,11 +56,11 @@ Das BIOS ist ein kritischer Bestandteil eines Computers, da es den Startvorgang 
 
 ---
 
-## 4. Was ist UEFI bzw. Unified Extensible Firmware Interface?
+4. Was ist UEFI bzw. Unified Extensible Firmware Interface?
 
 Das UEFI (Unified Extensible Firmware Interface) ist eine moderne Firmware-Schnittstelle, die das traditionelle BIOS (Basic Input/Output System) in vielen aktuellen Computern ersetzt hat. UEFI wurde entwickelt, um den Startvorgang von Computern zu verbessern und erweiterte Funktionen und Flexibilität für die Firmware bereitzustellen.
 
-#### Hier sind einige wichtige Informationen zum UEFI:
+Hier sind einige wichtige Informationen zum UEFI:
 
 1. **Startvorgang**: Ähnlich wie das BIOS ist das UEFI für die Initialisierung der Hardware und den Startvorgang des Computers verantwortlich. Es unterscheidet sich jedoch in der Art und Weise, wie es den Startprozess verwaltet und steuert.
 2. **Grafische Benutzeroberfläche**: Im Gegensatz zu den textbasierten BIOS-Einstellungen bietet das UEFI oft eine grafische Benutzeroberfläche für die Firmware-Einstellungen. Dies erleichtert die Konfiguration und das Navigieren durch die Optionen.
@@ -75,11 +75,11 @@ Insgesamt bietet das UEFI eine modernere und leistungsfähigere Firmware-Schnitt
 
 ---
 
-## 5. Was ist der Unterschied von BIOS zu UEFI?
+5. Was ist der Unterschied von BIOS zu UEFI?
 
 Der Hauptunterschied zwischen BIOS (Basic Input/Output System) und UEFI (Unified Extensible Firmware Interface) liegt in der Art und Weise, wie sie die Firmware-Schnittstelle und den Startvorgang eines Computers handhaben.
 
-#### Hier sind die wichtigsten Unterschiede zwischen BIOS und UEFI:
+Hier sind die wichtigsten Unterschiede zwischen BIOS und UEFI:
 
 1. **Startprozess**:
    - **BIOS**: Das BIOS verwendet den Master Boot Record (MBR) auf der Festplatte, um den Startprozess zu initiieren. Dieser Prozess ist oft textbasiert und hat begrenzte Funktionen für die Hardwareinitialisierung.
@@ -107,7 +107,7 @@ Insgesamt bietet UEFI eine modernere und leistungsfähigere Firmware-Schnittstel
 
 ---
 
-## 6. Was hat BIOS bzw. UEFI mit dem Startvorgang zu tun?
+6. Was hat BIOS bzw. UEFI mit dem Startvorgang zu tun?
 
 Das BIOS (Basic Input/Output System) und das UEFI (Unified Extensible Firmware Interface) sind beide entscheidende Komponenten des Startvorgangs eines Computers. Ihre Hauptaufgabe besteht darin, den Computer zu initialisieren und den Bootvorgang zu steuern, bei dem das Betriebssystem geladen wird.
 
@@ -126,11 +126,11 @@ Insgesamt sind sowohl das BIOS als auch das UEFI entscheidend für den Startvorg
 
 --- 
 
-## 7. Was ist die Windows "Datenträgerverwaltung"?
+7. Was ist die Windows "Datenträgerverwaltung"?
 
 Die Windows Datenträgerverwaltung (Disk Management) ist ein integriertes Tool in Microsoft Windows-Betriebssystemen, das es den Benutzern ermöglicht, Festplatten und andere Speichergeräte zu verwalten, Partitionen zu erstellen, zu ändern, zu löschen und andere Aufgaben im Zusammenhang mit Speichermedien durchzuführen.
 
-#### Hier sind einige der Hauptfunktionen der Windows Datenträgerverwaltung:
+Hier sind einige der Hauptfunktionen der Windows Datenträgerverwaltung:
 
 1. **Partitionieren von Festplatten**: Mit der Datenträgerverwaltung können Benutzer Festplatten in mehrere Partitionen aufteilen. Dies ist hilfreich, um Daten zu organisieren, verschiedene Betriebssysteme auf demselben Laufwerk zu installieren oder die Leistung zu optimieren.
 2. **Erstellen neuer Partitionen**: Sie können neue Partitionen auf vorhandenen nicht zugeordneten Speicherplatz erstellen. Dies ist nützlich, wenn Sie beispielsweise einen neuen Datenträger anschließen und ihn für die Verwendung vorbereiten möchten.
