@@ -3,7 +3,7 @@
 
 ---
 
-1. Was ist MBR bzw. Master Boot Record?
+**1. Was ist MBR bzw. Master Boot Record?**
 
 Der Master Boot Record (MBR) ist ein wichtiger Teil des Speicherbereichs auf einer Festplatte oder einem anderen Speichergerät. Er spielt eine entscheidende Rolle beim Starten eines Computers und beim Laden des Betriebssystems.
 
@@ -20,7 +20,7 @@ Insgesamt ist der Master Boot Record ein wichtiger Bestandteil des Startvorgangs
 
 ---
 
-2. Was ist GPT bzw. GUID Partition Table?
+**2. Was ist GPT bzw. GUID Partition Table?**
 
 Die GPT (GUID Partition Table) ist eine moderne Methode zur Partitionierung von Festplatten und anderen Speichergeräten auf Computern. Sie ersetzt den älteren MBR (Master Boot Record) als Standardpartitionierungsschema in modernen Computern.
 
@@ -38,7 +38,7 @@ Insgesamt bietet die GPT eine verbesserte und flexiblere Methode zur Partitionie
 
 ---
 
-3. Was ist BIOS bzw. Basic Input Output System?
+**3. Was ist BIOS bzw. Basic Input Output System?**
 
 Das BIOS (Basic Input/Output System) ist ein essenzielles Firmware-Programm, das in Computern und anderen Geräten verwendet wird, um grundlegende Hardwarefunktionen zu steuern und den Startvorgang des Computers zu initialisieren.
 
@@ -56,7 +56,7 @@ Das BIOS ist ein kritischer Bestandteil eines Computers, da es den Startvorgang 
 
 ---
 
-4. Was ist UEFI bzw. Unified Extensible Firmware Interface?
+**4. Was ist UEFI bzw. Unified Extensible Firmware Interface?**
 
 Das UEFI (Unified Extensible Firmware Interface) ist eine moderne Firmware-Schnittstelle, die das traditionelle BIOS (Basic Input/Output System) in vielen aktuellen Computern ersetzt hat. UEFI wurde entwickelt, um den Startvorgang von Computern zu verbessern und erweiterte Funktionen und Flexibilität für die Firmware bereitzustellen.
 
@@ -75,7 +75,7 @@ Insgesamt bietet das UEFI eine modernere und leistungsfähigere Firmware-Schnitt
 
 ---
 
-5. Was ist der Unterschied von BIOS zu UEFI?
+**5. Was ist der Unterschied von BIOS zu UEFI?**
 
 Der Hauptunterschied zwischen BIOS (Basic Input/Output System) und UEFI (Unified Extensible Firmware Interface) liegt in der Art und Weise, wie sie die Firmware-Schnittstelle und den Startvorgang eines Computers handhaben.
 
@@ -107,7 +107,7 @@ Insgesamt bietet UEFI eine modernere und leistungsfähigere Firmware-Schnittstel
 
 ---
 
-6. Was hat BIOS bzw. UEFI mit dem Startvorgang zu tun?
+**6. Was hat BIOS bzw. UEFI mit dem Startvorgang zu tun?**
 
 Das BIOS (Basic Input/Output System) und das UEFI (Unified Extensible Firmware Interface) sind beide entscheidende Komponenten des Startvorgangs eines Computers. Ihre Hauptaufgabe besteht darin, den Computer zu initialisieren und den Bootvorgang zu steuern, bei dem das Betriebssystem geladen wird.
 
@@ -126,7 +126,7 @@ Insgesamt sind sowohl das BIOS als auch das UEFI entscheidend für den Startvorg
 
 --- 
 
-7. Was ist die Windows "Datenträgerverwaltung"?
+**7. Was ist die Windows "Datenträgerverwaltung"?**
 
 Die Windows Datenträgerverwaltung (Disk Management) ist ein integriertes Tool in Microsoft Windows-Betriebssystemen, das es den Benutzern ermöglicht, Festplatten und andere Speichergeräte zu verwalten, Partitionen zu erstellen, zu ändern, zu löschen und andere Aufgaben im Zusammenhang mit Speichermedien durchzuführen.
 
