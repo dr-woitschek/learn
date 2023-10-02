@@ -1,13 +1,13 @@
 
-## solution - Dateisysteme
+**solution - Dateisysteme**
 
 ---
 
-## 01. Wofür braucht man Dateisysteme?
+**01. Wofür braucht man Dateisysteme?**
 
 Dateisysteme sind eine grundlegende Komponente eines jeden Betriebssystems, und sie erfüllen eine Vielzahl von wichtigen Aufgaben, die für die effiziente Speicherung, Organisation und Verwaltung von Daten auf einem Computer unerlässlich sind.
 
-#### Hier sind einige der Hauptgründe, warum Dateisysteme benötigt werden:
+Hier sind einige der Hauptgründe, warum Dateisysteme benötigt werden:
 
 1. **Datenorganisation**: Dateisysteme organisieren Daten in hierarchischen Strukturen, wodurch Benutzer und Programme in der Lage sind, Dateien und Ordner in einer sinnvollen Weise zu speichern und zu finden. Dies ermöglicht eine effiziente Verwaltung von Daten und eine geordnete Speicherung.
 2. **Dateizugriff und -verwaltung**: Dateisysteme ermöglichen den Zugriff auf Dateien und deren Verwaltung, einschließlich des Lesens, Schreibens, Kopierens, Verschiebens und Löschens von Dateien. Sie bieten auch Mechanismen zur Sicherstellung der Datensicherheit und zur Verhinderung von unbefugtem Zugriff.
@@ -23,7 +23,7 @@ Insgesamt ermöglichen Dateisysteme die effiziente und organisierte Verwaltung v
 
 ---
 
-## 02. Wie sind Dateisysteme Organisiert bzw. Strukturiert?
+**02. Wie sind Dateisysteme Organisiert bzw. Strukturiert?**
 
 Dateisysteme sind in hierarchischer Form organisiert und strukturiert, um eine geordnete und effiziente Speicherung und Verwaltung von Dateien und Ordnern zu ermöglichen.
 
@@ -44,11 +44,11 @@ Die genaue Struktur und Organisation eines Dateisystems kann von Betriebssystem 
 
 ---
 
-## 03. Welche Arten von Dateisystemen gibt es?
+**03. Welche Arten von Dateisystemen gibt es?**
 
 Es gibt viele verschiedene Arten von Dateisystemen, die entwickelt wurden, um die unterschiedlichen Anforderungen und Nutzungsszenarien von Computern und Speichermedien zu erfüllen.
 
-#### Hier sind einige der bekanntesten Arten von Dateisystemen:
+Hier sind einige der bekanntesten Arten von Dateisystemen:
 
 1. **FAT (File Allocation Table)**:
    - FAT12: Ursprünglich für Diskettenlaufwerke entwickelt.
@@ -70,11 +70,11 @@ Diese Liste ist nicht abschließend, da es viele weitere Dateisysteme gibt, die 
 
 ---
 
-## 04. Was ist ein Sektor?
+**04. Was ist ein Sektor?**
 
 Ein Sektor ist eine grundlegende Dateneinheit auf einer Festplatte oder einem anderen Speichermedium. Ein Sektor ist eine kleine, zusammenhängende Gruppe von Bytes, die als Einheit gelesen oder geschrieben werden können. Sektoren sind die kleinste adressierbare Einheit auf einem Speichergerät und dienen als Grundlage für die Organisation und Verwaltung von Daten.
 
-#### Hier sind einige wichtige Informationen zu Sektoren:
+Hier sind einige wichtige Informationen zu Sektoren:
 
 1. **Größe**: Die Größe eines Sektors kann je nach Speichergerät variieren, aber in der Regel beträgt sie 512 Bytes oder 4 Kilobytes (KB). Auf modernen Festplatten und SSDs werden oft 4-KB-Sektoren verwendet, um die Effizienz und Leistung zu steigern.
 2. **Adressierung**: Sektoren werden in der Regel durch eine eindeutige numerische Adresse identifiziert, die als Sektornummer bezeichnet wird. Diese Nummern werden normalerweise linear von 0 bis N durchnummeriert, wobei N die Gesamtzahl der Sektoren auf dem Speichergerät ist.
@@ -87,11 +87,11 @@ Sektoren sind grundlegend für die Organisation und das Management von Daten auf
 
 ---
 
-## 05. Was ist ein Cluster?
+**05. Was ist ein Cluster?**
 
 Ein Cluster ist eine Gruppe von aufeinanderfolgenden Sektoren auf einem Speichermedium, wie einer Festplatte oder einer SSD. Clusters sind eine wichtige organisatorische Einheit für Dateisysteme und dienen dazu, Daten effizient auf dem Speichermedium zu organisieren und zuzugreifen.
 
-#### Hier sind einige wichtige Informationen zu Clustern:
+Hier sind einige wichtige Informationen zu Clustern:
 
 1. **Größe**: Die Größe eines Clusters variiert je nach Dateisystem und der Konfiguration des Speichergeräts. Clusters können typischerweise zwischen 512 Bytes und mehreren Kilobytes groß sein. Die Wahl der Clustergröße hat Auswirkungen auf die Speicherplatznutzung und die Leistung des Dateisystems.
 2. **Clusteradressierung**: Ähnlich wie Sektoren werden auch Cluster durch eine eindeutige numerische Adresse identifiziert, die als Cluster- oder Blocknummer bezeichnet wird. Diese Nummern werden normalerweise linear von 0 bis N durchnummeriert, wobei N die Gesamtzahl der Cluster auf dem Speichergerät ist.
@@ -104,11 +104,11 @@ Die Wahl der Clustergröße und die Verwaltung von Clustern sind wichtige Überl
 
 ---
 
-## 06. Was ist eine Datei?
+**06. Was ist eine Datei?**
 
 Eine Datei ist eine benannte Sammlung von Daten, die auf einem Speichermedium, wie einer Festplatte, SSD, USB-Laufwerk oder einem anderen Datenträger, gespeichert ist. Dateien sind grundlegende Dateneinheiten auf Computern und dienen dazu, Informationen in digitaler Form zu organisieren, zu speichern und zu verwalten.
 
-#### Hier sind einige wichtige Merkmale von Dateien:
+Hier sind einige wichtige Merkmale von Dateien:
 
 1. **Dateninhalt**: Eine Datei enthält eine bestimmte Menge von Daten, die in einer spezifischen Reihenfolge angeordnet sind. Dieser Inhalt kann Text, Grafiken, Audio, Video, Programme oder jede andere Art von Informationen sein.
 2. **Dateinamen**: Jede Datei ist durch einen eindeutigen Dateinamen identifiziert, der verwendet wird, um auf die Datei zuzugreifen und sie zu identifizieren. Der Dateiname kann Buchstaben, Zahlen, Sonderzeichen und Leerzeichen enthalten.
@@ -122,11 +122,11 @@ Dateien sind die Grundlage für die Organisation von Informationen auf einem Com
 
 ---
 
-## 07. Was ist eine Partition?
+**07. Was ist eine Partition?**
 
 Eine Partition ist ein logischer Abschnitt oder eine Unterteilung einer physischen Festplatte oder eines anderen Speichermediums. Partitionen dienen dazu, den verfügbaren Speicherplatz auf einem Datenträger in separate Bereiche aufzuteilen, die unabhängig voneinander verwaltet werden können. Jede Partition fungiert als eigenständiger Datenträger, auf dem ein Dateisystem erstellt und Daten gespeichert werden kann.
 
-#### Hier sind einige wichtige Merkmale von Partitionen:
+Hier sind einige wichtige Merkmale von Partitionen:
 
 1. **Isolierung von Daten**: Partitionen ermöglichen es, verschiedene Arten von Daten oder Betriebssystemen voneinander zu isolieren. Sie verhindern, dass Fehler oder Probleme in einer Partition auf andere übergreifen.
 2. **Verwaltung von Speicherplatz**: Durch die Verwendung von Partitionen kann der verfügbare Speicherplatz auf einem Datenträger effizienter genutzt werden. Jede Partition kann separat formatiert, erweitert oder verkleinert werden.
@@ -141,7 +141,7 @@ Partitionen spielen eine wichtige Rolle bei der Verwaltung und Organisation von 
 
 ---
 
-## 08. Was sind Meta-Daten?
+**08. Was sind Meta-Daten?**
 
 Alle Daten die zusätzliche Informationen zu einer bestimmten Datei darstellen werden als Meta-Daten bezeichnet. Dateien haben in einem Dateisystem immer mindestens einen Dateinamen sowie Attribute die nähere Informationen zu dieser Datei beinhalten. Die Dateinamen werden wiederum in Verzeichnissen abgelegt, mit denen dann eine Datei vom System gefunden werden kann.
 
@@ -151,11 +151,11 @@ Ein typisches Beispiel für Metadaten sind zusätzliche Informationen zu einem B
 
 ---
 
-## 09. Was sind Zugriffsrechte?
+**09. Was sind Zugriffsrechte?**
 
 Zugriffsrechte sind Berechtigungen oder Genehmigungen, die auf Dateien, Verzeichnissen und anderen Ressourcen in einem Computersystem festgelegt werden. Sie bestimmen, welche Benutzer oder Gruppen von Benutzern auf diese Ressourcen zugreifen, sie lesen, ändern, ausführen oder löschen dürfen. Zugriffsrechte sind ein wichtiger Aspekt der Sicherheit und der Datenschutzkontrolle in Betriebssystemen und Dateisystemen.
 
-#### Hier sind einige der grundlegenden Zugriffsrechte und Konzepte:
+Hier sind einige der grundlegenden Zugriffsrechte und Konzepte:
 
 1. **Leserechte (Read)**: Das Leserecht erlaubt Benutzern das Anzeigen des Inhalts einer Datei oder eines Verzeichnisses. Mit Leserechten können Benutzer den Inhalt anzeigen, jedoch nicht ändern oder löschen.
 2. **Schreibrechte (Write)**: Schreibrechte gestatten Benutzern das Bearbeiten oder Hinzufügen von Inhalten zu einer Datei oder einem Verzeichnis. Wenn Sie Schreibrechte haben, können Sie den Inhalt ändern oder neue Dateien und Ordner erstellen.
@@ -189,11 +189,11 @@ Das richtige Verständnis und die Verwaltung von Zugriffsrechten sind entscheide
 
 ---
 
-## 10. Was sind Dateinamenerweiterungen?
+**10. Was sind Dateinamenerweiterungen?**
 
 Dateinamenerweiterungen sind Zeichenfolgen, die an den Namen einer Datei angehängt werden und dazu dienen, den Dateityp oder das Dateiformat anzugeben. Sie bestehen normalerweise aus einem Punkt gefolgt von einer oder mehreren Buchstaben oder Zahlen und können auch Sonderzeichen enthalten. Die Erweiterung hilft dem Betriebssystem und den Anwendungen, den Dateityp zu identifizieren und die entsprechende Software zum Öffnen oder Verarbeiten der Datei auszuwählen.
 
-#### Hier sind einige Beispiele für Dateinamenerweiterungen und ihre zugehörigen Dateitypen:
+Hier sind einige Beispiele für Dateinamenerweiterungen und ihre zugehörigen Dateitypen:
 
 - **.txt**: Eine Textdatei. Enthält normalerweise menschenlesbaren Text ohne spezielle Formatierung.
 - **.jpg oder .jpeg**: JPEG-Bilddatei. Enthält Bilder im JPEG-Format, das für Fotos und Grafiken weit verbreitet ist.
