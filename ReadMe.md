@@ -10,7 +10,7 @@
 * [Dateisysteme](https://github.com/dr-woitschek/learn/tree/main/Dateisysteme/)
 * [Firewall](https://github.com/dr-woitschek/learn/tree/main/Firewall/)
 * [Hypervisor/Virtualisierung](https://github.com/dr-woitschek/learn/tree/main/Hypervisor_Virtualisierung/)
-* [Netzwerk:  TCP/IP - UDP ...](https://github.com/dr-woitschek/learn/tree/main/Netzwerk/)
+* [Netzwerk: TCP/IP - UDP - MAC - IP-Adressen - ARP - Ports](https://github.com/dr-woitschek/learn/tree/main/Netzwerk/)
 * [Netzwerkfreigaben](https://github.com/dr-woitschek/learn/tree/main/Netzwerkfreigaben/)
 * [Peripherie: Maus und Tastatur](https://github.com/dr-woitschek/learn/tree/main/Peripherie_Maus_und_Tastatur/)
 * [Registry](https://github.com/dr-woitschek/learn/tree/main/Registry/)
