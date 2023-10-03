@@ -53,3 +53,9 @@ copype.cmd amd64 C:\TEMP\PE
 makewinpemedia.cmd /iso C:\TEMP\PE PE.iso
 ```
 ![Screenshot - makewinpemedia.cmd](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/makewinpemedia1.jpg)
+
+
+```
+makewinpemedia.cmd /ufd C:\TEMP\PE D:
+```
+![Screenshot - makewinpemedia.cmd](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/makewinpemedia2.jpg)
