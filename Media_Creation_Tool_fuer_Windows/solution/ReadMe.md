@@ -42,7 +42,7 @@ Es gibt auch verschiedene Tools und Anwendungen von Drittanbietern, mit denen Si
 
 Erstelle dir mit dem Media Creation Tool eine ISO-Datei und einen USB Stick.
 
-![Screenshot - copype.cmd](https://github.com/dr-woitschek/learn/tree/main/Media_Creation_Tool_fuer_Windows/copype1.jpg)
+![Screenshot - copype.cmd](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/copype1.jpg)
 
-![Screenshot - copype.cmd](https://github.com/dr-woitschek/learn/tree/main/Media_Creation_Tool_fuer_Windows/copype2.jpg)
+![Screenshot - copype.cmd](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/copype2.jpg)
 
