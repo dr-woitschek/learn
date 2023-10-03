@@ -42,7 +42,14 @@ Es gibt auch verschiedene Tools und Anwendungen von Drittanbietern, mit denen Si
 
 Erstelle dir mit dem Media Creation Tool eine ISO-Datei und einen USB Stick.
 
+```
+copype.cmd amd64 C:\TEMP\PE
+```
 ![Screenshot - copype.cmd](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/copype1.jpg)
 
 ![Screenshot - copype.cmd](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/copype2.jpg)
 
+```
+makewinpemedia.cmd /iso C:\TEMP\PE PE.iso
+```
+![Screenshot - makewinpemedia.cmd](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/makewinpemedia1.jpg)
