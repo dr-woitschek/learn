@@ -77,7 +77,7 @@ starte: _"Umgebung für Bereitstellungs- und Imageerstellungstools"_ als Adminis
 C:\Windows\system32\cmd.exe /k "C:\Program Files (x86)\Windows Kits\10\Assessment and Deployment Kit\Deployment Tools\DandISetEnv.bat" 
 ```
 
-starte _"copype.cmd"_
+starte _"copype.cmd \<parameter>"_
 ```
 Creates working directories for WinPE image customization and media creation.
 
@@ -92,7 +92,7 @@ copype { amd64 | x86 | arm | arm64 } <workingDirectory>
 Example: copype amd64 C:\WinPE_amd64
 ```
 
-starte _"makewinpemedia.cmd"_
+starte _"makewinpemedia.cmd \<parameter>"_
 ```
 Creates bootable WinPE USB flash drive or ISO file.
 
