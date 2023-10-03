@@ -70,9 +70,9 @@ Das ADK wird regelmäßig von Microsoft aktualisiert, um die neuesten Windows-Ve
 
 **4. Wie erstelle ich ein "Microsoft Windows PE"?**
 
-Vorraussetzung: [Installiertes ADK mit PE Addon](https://docs.microsoft.com/de-de/windows-hardware/get-started/adk-install#other-adk-downloads){:target="_blank"} 
+Vorraussetzung: [Installiertes ADK mit PE Addon](https://docs.microsoft.com/de-de/windows-hardware/get-started/adk-install#other-adk-downloads){:target="_blank" rel="noopener"}
 
-starte: _"Umgebung für Bereitstellungs- und Imageerstellungstools"_
+starte: _"Umgebung für Bereitstellungs- und Imageerstellungstools"_ als Administrator
 ```
 C:\Windows\system32\cmd.exe /k "C:\Program Files (x86)\Windows Kits\10\Assessment and Deployment Kit\Deployment Tools\DandISetEnv.bat" 
 ```
