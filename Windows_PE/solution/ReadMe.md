@@ -121,8 +121,8 @@ MakeWinPEMedia {/ufd | /iso} [/f] <workingDirectory> <destination>
 
 _"makewinpemedia.cmd /iso C:\TEMP\PE PE.iso"_
 
-![Screenshot - makewinpemedia.cmd](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/makewinpemedia1.jpg)
+![Screenshot - makewinpemedia.cmd](https://github.com/dr-woitschek/learn/blob/main/Windows_PE/solution/makewinpemedia1.jpg)
 
 _"makewinpemedia.cmd /ufd C:\TEMP\PE D:"_
 
-![Screenshot - makewinpemedia.cmd](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/makewinpemedia2.jpg)
+![Screenshot - makewinpemedia.cmd](https://github.com/dr-woitschek/learn/blob/main/Windows_PE/solution/makewinpemedia2.jpg)
