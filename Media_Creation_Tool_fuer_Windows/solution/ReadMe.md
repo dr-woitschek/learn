@@ -38,13 +38,9 @@ Es gibt auch verschiedene Tools und Anwendungen von Drittanbietern, mit denen Si
 
 ---
 
-**Aufgabe:**
+**Aufgabe:** Erstelle dir mit dem Media Creation Tool eine ISO-Datei und einen USB Stick.
 
-Erstelle dir mit dem Media Creation Tool eine ISO-Datei und einen USB Stick.
-
-**Vorraussetzung:**
-* [Media Creation Tool für Windows 10](https://www.microsoft.com/de-de/software-download/windows10/)
-* [Media Creation Tool für Windows 11](https://www.microsoft.com/de-de/software-download/windows11/)
+**Vorraussetzung:** [Media Creation Tool für Windows 10](https://www.microsoft.com/de-de/software-download/windows10/) oder [Media Creation Tool für Windows 11](https://www.microsoft.com/de-de/software-download/windows11/)
 
 **Schritt für Schritt:**
 
@@ -59,3 +55,13 @@ Erstelle dir mit dem Media Creation Tool eine ISO-Datei und einen USB Stick.
 | Speicherort wählen          | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_MediaCreationTool/MediaCreationTool_07_ISO.jpg" width="50%"> <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_MediaCreationTool/MediaCreationTool_07_USB.jpg" width="50%"> |
 | Status                      | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_MediaCreationTool/MediaCreationTool_08.jpg"> |
 | Abgeschlossen               | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_MediaCreationTool/MediaCreationTool_09_ISO.jpg" width="50%"> <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_MediaCreationTool/MediaCreationTool_09_USB.jpg" width="50%"> |
+
+---
+
+**Aufgabe:** Konfiguriere einen beliebigen Computer/Laptop damit er von einem USB Stick starten kann
+
+| Beschreibung                | Bild |
+| --------------------------- | ---- |
+| BIOS Boot Reihenfolge       | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_BIOS/BIOS_01.jpg"> |
+
+---
