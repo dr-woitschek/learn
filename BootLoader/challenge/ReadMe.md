@@ -3,6 +3,8 @@
 
 ---
 
+**Beantworte nachfolgende Fragen:**
+
 1. Was ist MBR bzw. Master Boot Record?
 2. Was ist GPT bzw. GUID Partition Table?
 3. Was ist BIOS bzw. Basic Input Output System?
