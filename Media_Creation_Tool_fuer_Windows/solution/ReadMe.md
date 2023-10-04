@@ -62,6 +62,4 @@ Erstelle dir mit dem Media Creation Tool eine ISO-Datei und einen USB Stick.
 | Status                      | ![MediaCreationTool 08](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_08.jpg)     |
 | Abgeschlossen: USB-Stick    | ![MediaCreationTool 08](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_09_USB.jpg) |
 | Abgeschlossen: ISO-Datei    | ![MediaCreationTool 08](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_09_ISO.jpg) |
-| Abgeschlossen               | ![MediaCreationTool 08](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_09_USB.jpg) ![MediaCreationTool 08](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_09_ISO.jpg) |
-
-<img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_09_USB.jpg" width="100" height="100">
+| Abgeschlossen               | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_09_ISO.jpg" width="50%"> <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_09_USB.jpg" width="50%"> |
