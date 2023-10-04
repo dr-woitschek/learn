@@ -92,6 +92,12 @@ copype { amd64 | x86 | arm | arm64 } <workingDirectory>
 Example: copype amd64 C:\WinPE_amd64
 ```
 
+_"copype.cmd amd64 C:\TEMP\PE"_
+
+![Screenshot - copype.cmd](https://github.com/dr-woitschek/learn/blob/main/Windows_PE/solution/copype1.jpg)
+
+![Screenshot - copype.cmd](https://github.com/dr-woitschek/learn/blob/main/Windows_PE/solution/copype2.jpg)
+
 starte _"makewinpemedia.cmd \<parameter>"_
 ```
 Creates bootable WinPE USB flash drive or ISO file.
@@ -112,3 +118,11 @@ MakeWinPEMedia {/ufd | /iso} [/f] <workingDirectory> <destination>
    MakeWinPEMedia /UFD /F C:\WinPE_amd64 H:
    MakeWinPEMedia /ISO C:\WinPE_x86 C:\WinPE_x86\WinPE_x86.iso
 ```
+
+_"makewinpemedia.cmd /iso C:\TEMP\PE PE.iso"_
+
+![Screenshot - makewinpemedia.cmd](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/makewinpemedia1.jpg)
+
+_"makewinpemedia.cmd /ufd C:\TEMP\PE D:"_
+
+![Screenshot - makewinpemedia.cmd](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/makewinpemedia2.jpg)
