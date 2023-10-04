@@ -43,8 +43,8 @@ Es gibt auch verschiedene Tools und Anwendungen von Drittanbietern, mit denen Si
 Erstelle dir mit dem Media Creation Tool eine ISO-Datei und einen USB Stick.
 
 Vorraussetzung:
-![Media Creation Tool für Windows 10](https://www.microsoft.com/de-de/software-download/windows10/)
-![Media Creation Tool für Windows 11](https://www.microsoft.com/de-de/software-download/windows11/)
+* [Media Creation Tool für Windows 10](https://www.microsoft.com/de-de/software-download/windows10/)
+* [Media Creation Tool für Windows 11](https://www.microsoft.com/de-de/software-download/windows11/)
 
 Schritt für Schritt:
 ![MediaCreationTool 01](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_01.jpg)
