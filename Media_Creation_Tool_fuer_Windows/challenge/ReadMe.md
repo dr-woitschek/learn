@@ -11,8 +11,8 @@
 
 **Aufgabe:**
 - Erstelle dir mit dem Media Creation Tool eine ISO-Datei und einen USB Stick
-- Konfiguriere einen beliebigen Computer/Laptop damit er von einem USB Stick starten kann
-- Starte den Computer/Laptop mit dem von dir erstellten USB Stick
+- Konfiguriere einen beliebigen Computer/Laptop damit er von einem USB Stick/ISO-Datei starten kann
+- Starte den Computer/Laptop mit dem von dir erstellten USB Stick/ISO-Datei
 - Folge den Anweisungen zur Standard-Installation eines Microsoft Betriebssystems
 
 ---

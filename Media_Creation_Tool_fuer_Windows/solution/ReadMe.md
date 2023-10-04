@@ -65,3 +65,19 @@ Es gibt auch verschiedene Tools und Anwendungen von Drittanbietern, mit denen Si
 | BIOS Boot Reihenfolge       | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_BIOS/BIOS_01.jpg"> |
 
 ---
+
+Dokumentiere den Installationsprozess einer Standard-Microsoft Betriebssystem-Installation
+**Aufgaben:**
+- Starte den Computer/Laptop mit dem von dir erstellten USB Stick/ISO-Datei
+- Folge den Anweisungen zur Standard-Installation eines Microsoft Betriebssystems
+
+| Beschreibung                | Bild |
+| --------------------------- | ---- |
+| Any Key                     | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_01.jpg"> |
+| Sprache/Tastatur etc.       | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_02.jpg"> |
+| "Jetzt installieren"        | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_03.jpg"> |
+| "Windows aktivieren"        | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_04.jpg"> |
+| Betriebssystem wählen       | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_05.jpg"> |
+| EULA                        | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_06.jpg"> |
+| Installationsart            | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_07.jpg"> |
+| Partitionierung             | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_08.jpg"> |
