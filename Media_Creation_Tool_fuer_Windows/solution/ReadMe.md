@@ -60,9 +60,9 @@ Es gibt auch verschiedene Tools und Anwendungen von Drittanbietern, mit denen Si
 
 **Aufgabe:** Konfiguriere einen beliebigen Computer/Laptop damit er von einem USB Stick starten kann
 
-| Beschreibung                | Bild |
-| --------------------------- | ---- |
-| BIOS Boot Reihenfolge       | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_BIOS/BIOS_01.jpg"> |
+| Beschreibung          | Bild |
+| --------------------- | ---- |
+| BIOS Boot Reihenfolge | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_BIOS/BIOS_01.jpg"> |
 
 ---
 
@@ -71,13 +71,33 @@ Dokumentiere den Installationsprozess einer Standard-Microsoft Betriebssystem-In
 - Starte den Computer/Laptop mit dem von dir erstellten USB Stick/ISO-Datei
 - Folge den Anweisungen zur Standard-Installation eines Microsoft Betriebssystems
 
-| Beschreibung                | Bild |
-| --------------------------- | ---- |
-| Any Key                     | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_01.jpg"> |
-| Sprache/Tastatur etc.       | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_02.jpg"> |
-| "Jetzt installieren"        | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_03.jpg"> |
-| "Windows aktivieren"        | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_04.jpg"> |
-| Betriebssystem wählen       | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_05.jpg"> |
-| EULA                        | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_06.jpg"> |
-| Installationsart            | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_07.jpg"> |
-| Partitionierung             | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_08.jpg"> |
+| Beschreibung                       | Bild |
+| ---------------------------------- | ---- |
+| Any Key                            | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_01.jpg"> |
+| Sprache/Tastatur etc.              | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_02.jpg"> |
+| "Jetzt installieren"               | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_03.jpg"> |
+| "Windows aktivieren"               | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_04.jpg"> |
+| Betriebssystem wählen              | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_05.jpg"> |
+| EULA                               | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_06.jpg"> |
+| Installationsart                   | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_07.jpg"> |
+| Partitionierung                    | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_08.jpg"> |
+| Grundlagen: Region                 | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_09.jpg"> |
+| Grundlagen: Tastatur               | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_10.jpg"> |
+| Grundlagen: Tastatur               | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_11.jpg"> |
+| Netzwerk verbinden                 | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_12.jpg"> |
+| Netzwerk verbinden                 | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_13.jpg"> |
+| Konto: Name                        | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_14.jpg"> |
+| Konto: Kennwort                    | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_15.jpg"> |
+| Konto: Kennwort bestätigen         | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_16.jpg"> |
+| Konto: Kennwort Sicherheitsfrage 1 | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_17.jpg"> |
+| Konto: Kennwort Sicherheitsfrage 2 | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_18.jpg"> |
+| Konto: Kennwort Sicherheitsfrage 3 | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_19.jpg"> |
+| Dienste: Standort verwenden        | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_20.jpg"> |
+| Dienste: Mein Gerät suchen         | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_21.jpg"> |
+| Dienste: Diagnosedaten senden      | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_22.jpg"> |
+| Dienste: Freihand und Eingabe      | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_23.jpg"> |
+| Dienste: Diagnosedaten zu senden   | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_24.jpg"> |
+| Dienste: Werbe-ID                  | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_25.jpg"> |
+| Dienste: Cortana                   | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_26.jpg"> |
+| Abgeschlossen                      | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/Bilder_Win10_Install/Windows10_27.jpg"> |
+
