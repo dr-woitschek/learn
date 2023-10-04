@@ -67,6 +67,7 @@ Es gibt auch verschiedene Tools und Anwendungen von Drittanbietern, mit denen Si
 ---
 
 Dokumentiere den Installationsprozess einer Standard-Microsoft Betriebssystem-Installation
+
 **Aufgaben:**
 - Starte den Computer/Laptop mit dem von dir erstellten USB Stick/ISO-Datei
 - Folge den Anweisungen zur Standard-Installation eines Microsoft Betriebssystems
