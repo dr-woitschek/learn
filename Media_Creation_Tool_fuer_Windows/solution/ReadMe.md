@@ -48,14 +48,15 @@ Erstelle dir mit dem Media Creation Tool eine ISO-Datei und einen USB Stick.
 
 **Schritt für Schritt:**
 
-| Beschreibung                | Bild                                                                                                                                        |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Datei                       | ![MediaCreationTool 01](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_01.jpg) |
-| Als Administrator starten   | ![MediaCreationTool 02](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_02.jpg) |
-| EULA                        | ![MediaCreationTool 03](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_03.jpg) |
-| Installationsmedium wählen  | ![MediaCreationTool 04](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_04.jpg) |
-| Sprache/Edition/Architektur | ![MediaCreationTool 05](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_05.jpg) |
-| Medium wählen               | ![MediaCreationTool 06](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_06.jpg) |
-| ISO-Datei Speicherort       | ![MediaCreationTool 07](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_07.jpg) |
-| Status                      | ![MediaCreationTool 08](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_08.jpg) |
-| Abgeschlossen               | ![MediaCreationTool 08](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_09.jpg) |
+| Beschreibung                | Bild                                                                                                                                            |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Datei                       | ![MediaCreationTool 01](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_01.jpg)     |
+| Als Administrator starten   | ![MediaCreationTool 02](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_02.jpg)     |
+| EULA                        | ![MediaCreationTool 03](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_03.jpg)     |
+| Installationsmedium wählen  | ![MediaCreationTool 04](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_04.jpg)     |
+| Sprache/Edition/Architektur | ![MediaCreationTool 05](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_05.jpg)     |
+| Medium wählen: ISO-Datei    | ![MediaCreationTool 06](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_06_ISO.jpg) |
+| Medium wählen: USB-Stick    | ![MediaCreationTool 06](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_06_USB.jpg) |
+| ISO-Datei Speicherort       | ![MediaCreationTool 07](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_07.jpg)     |
+| Status                      | ![MediaCreationTool 08](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_08.jpg)     |
+| Abgeschlossen               | ![MediaCreationTool 08](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_09.jpg)     |
