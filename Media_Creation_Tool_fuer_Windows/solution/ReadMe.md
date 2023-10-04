@@ -48,14 +48,14 @@ Erstelle dir mit dem Media Creation Tool eine ISO-Datei und einen USB Stick.
 
 **Schritt für Schritt:**
 
-| Beschreibung                | Bild                                                                                                                                                           |
-| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Datei                       | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_01.jpg" target="_blank">                 |
-| Als Administrator starten   | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_02.jpg" target="_blank">                 |
-| EULA                        | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_03.jpg" target="_blank">                 |
-| Installationsmedium wählen  | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_04.jpg" target="_blank">                 |
-| Sprache/Edition/Architektur | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_05.jpg" target="_blank">                 |
-| Medium wählen               | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_06_USB.jpg" width="50%" target="_blank"> <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_06_ISO.jpg" width="50%" target="_blank"> |
-| Speicherort wählen          | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_07_ISO.jpg" width="50%" target="_blank"> <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_07_USB.jpg" width="50%" target="_blank"> |
-| Status                      | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_08.jpg" target="_blank">                 |
-| Abgeschlossen               | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_09_ISO.jpg" width="50%" target="_blank"> <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_09_USB.jpg" width="50%">                 |
+| Beschreibung                | Bild                                                                                                                           |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Datei                       | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_01.jpg"> |
+| Als Administrator starten   | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_02.jpg"> |
+| EULA                        | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_03.jpg"> |
+| Installationsmedium wählen  | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_04.jpg"> |
+| Sprache/Edition/Architektur | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_05.jpg"> |
+| Medium wählen               | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_06_USB.jpg" width="50%"> <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_06_ISO.jpg" width="50%"> |
+| Speicherort wählen          | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_07_ISO.jpg" width="50%"> <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_07_USB.jpg" width="50%"> |
+| Status                      | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_08.jpg"> |
+| Abgeschlossen               | <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_09_ISO.jpg" width="50%"> <img src="https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_09_USB.jpg" width="50%"> |
