@@ -55,8 +55,9 @@ Erstelle dir mit dem Media Creation Tool eine ISO-Datei und einen USB Stick.
 | EULA                        | ![MediaCreationTool 03](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_03.jpg)     |
 | Installationsmedium wählen  | ![MediaCreationTool 04](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_04.jpg)     |
 | Sprache/Edition/Architektur | ![MediaCreationTool 05](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_05.jpg)     |
-| Medium wählen: ISO-Datei    | ![MediaCreationTool 06](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_06_ISO.jpg) |
 | Medium wählen: USB-Stick    | ![MediaCreationTool 06](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_06_USB.jpg) |
-| ISO-Datei Speicherort       | ![MediaCreationTool 07](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_07.jpg)     |
+| Medium wählen: ISO-Datei    | ![MediaCreationTool 06](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_06_ISO.jpg) |
+| Speicherort: ISO-Datei      | ![MediaCreationTool 07](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_07_ISO.jpg) |
+| Speicherort: USB-Stick      | ![MediaCreationTool 06](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_07_USB.jpg) |
 | Status                      | ![MediaCreationTool 08](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_08.jpg)     |
 | Abgeschlossen               | ![MediaCreationTool 08](https://github.com/dr-woitschek/learn/blob/main/Media_Creation_Tool_fuer_Windows/solution/MediaCreationTool_09.jpg)     |
