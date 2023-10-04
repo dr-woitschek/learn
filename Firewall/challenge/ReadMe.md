@@ -3,6 +3,8 @@
 
 ---
 
+**Beantworte nachfolgende Fragen:**
+
 1. Was ist eine Firewall?
 2. Welche Arten von Firewalls gibt es?
 3. Was ist eine Demilitarized Zone (DMZ)?

@@ -3,6 +3,8 @@
 
 ---
 
+**Beantworte nachfolgende Fragen:**
+
 1. Was ist eine Netzwerkfreigabe?
 2. Welche Arten von Netzwerkfreigaben gibt es?
 3. Was ist dieses "SMB-Protokoll"?

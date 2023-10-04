@@ -3,6 +3,8 @@
 
 ---
 
+**Beantworte nachfolgende Fragen:**
+
 01. Was ist DHCP bzw. Dynamic Host Configuration Protocol?
 02. Warum benutzt man DHCP?
 03. Welche Zuordnungsarten gibt es bei DHCP und was ist der Unterschied zwischen diesen?

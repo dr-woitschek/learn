@@ -3,6 +3,8 @@
 
 ---
 
+**Beantworte nachfolgende Fragen:**
+
 1. Was ist überhaupt die Registry?
 2. Welche Hauptschlüssel gibt es in der Registry?
 3. Welche Werte und Datentypen gibt es?
