@@ -9,4 +9,6 @@ _kleine Spiel mit Scratch, 3 Level mit Sound und Timer_
 
 ---
 
-[Scratch](https://scratch.mit.edu/)
+_Weitere Informationen_
+- [https://scratch.mit.edu/](https://scratch.mit.edu/)
+- [https://code.org/minecraft](https://code.org/minecraft)

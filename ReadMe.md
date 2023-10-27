@@ -15,6 +15,7 @@
 * [Netzwerkfreigaben](https://github.com/dr-woitschek/learn/tree/main/Netzwerkfreigaben/)
 * [Peripherie: Maus und Tastatur](https://github.com/dr-woitschek/learn/tree/main/Peripherie_Maus_und_Tastatur/)
 * [Registry](https://github.com/dr-woitschek/learn/tree/main/Registry/)
+* [Scratch Beispiel Game](https://github.com/dr-woitschek/learn/tree/main/Scratch/)
 * [Server Innenleben](https://github.com/dr-woitschek/learn/tree/main/Server_Innenleben/)
 * [SQL Island](https://github.com/dr-woitschek/learn/tree/main/SQL_Island/)
 * [Windows PE](https://github.com/dr-woitschek/learn/tree/main/Windows_PE/)
