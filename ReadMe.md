@@ -4,6 +4,7 @@
 ---
 
 * [Abkuerzungen](https://github.com/dr-woitschek/learn/tree/main/Abkuerzungen/)
+* [Batch](https://github.com/dr-woitschek/learn/tree/main/Batch/)
 * [BootLoader](https://github.com/dr-woitschek/learn/tree/main/BootLoader/)
 * [Computer Innenleben](https://github.com/dr-woitschek/learn/tree/main/Computer_Innenleben/)
 * [DHCP und DNS](https://github.com/dr-woitschek/learn/tree/main/DHCP_DNS/)
