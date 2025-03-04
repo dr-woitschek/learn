@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <title>Leaflet-Beispiel von Dr. Woitschek</title>
+	  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+      <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+      <style>
+         html, body {
+            height:    100%;
+            margin:    0   auto;
+            padding:   15px;
+         }
+         .leaflet-container {
+            border:         1px solid black;
+            border-radius:  8px;
+            height:         100%;
+            width:          100%;
+            max-width:      100%;
+            max-height:     85%;
+         }
+         .marker-ff0000 { /* Color: Rot     */ width: 2rem; height: 2rem; border-radius: 2rem; background: #ff0000; }
+         .marker-000000 { /* Color: Schwarz */ width: 2rem; height: 2rem; border-radius: 2rem; background: #000000; }
+      </style>
+   </head>
+   <body>
+      <div id='map'></div>
+      <h1>:)</h1>
+      <script>
+         const standort = L.layerGroup();
+		 
+         const theOpenStreetMap    = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',        { maxZoom: 19, attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>' });
+         const theOpenStreetMapHOT = L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>' });
+		 
+		 var MitteMarker = L.divIcon({className: 'marker-ff0000'});
+         const Mitte     = L.marker([48.218775 , 11.624753], {icon: MitteMarker}).bindPopup('Allianz Arena des FC Bayern München in München').addTo(standort);
+         const map       = L.map('map', { center: [51.163375, 10.447683], zoom: 5, layers: [theOpenStreetMap, standort] });
+		 
+         const baseLayers = { 'OpenStreetMap': theOpenStreetMap, 'OpenStreetMap.HOT': theOpenStreetMapHOT };
+		 
+         const overlays = { 'Die Mitte': standort };
+		 
+         const layerControl = L.control.layers(baseLayers, overlays).addTo(map);
+		 
+         const openTopoMap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)' });
+         layerControl.addBaseLayer(openTopoMap, 'OpenTopoMap');
+		 
+         var dieMarkierungsCSSClass  = L.divIcon({className: 'marker-000000'});
+		 
+         const einePunkt001 = L.marker([ 48.3225   , 10.882222 ], {icon: dieMarkierungsCSSClass}).bindPopup( 'SGL Arena des FC Augsburg in Augsburg'                         );
+         const einePunkt002 = L.marker([ 51.038256 , 7.002206  ], {icon: dieMarkierungsCSSClass}).bindPopup( 'BayArena von Bayer Leverkusen in Leverkusen'                   );
+         const einePunkt003 = L.marker([ 51.492569 , 7.451842  ], {icon: dieMarkierungsCSSClass}).bindPopup( 'Signal Iduna Park von Borussia Dortmund in Dortmund'           );
+         const einePunkt004 = L.marker([ 51.174583 , 6.385464  ], {icon: dieMarkierungsCSSClass}).bindPopup( 'Borussia-Park des Borussia Mönchengladbach in Mönchengladbach' );
+         const einePunkt005 = L.marker([ 50.068572 , 8.645458  ], {icon: dieMarkierungsCSSClass}).bindPopup( 'Commerzbank-Arena von Eintracht Frankfurt in Frankfurt'        );
+         const einePunkt006 = L.marker([ 47.988889 , 7.893056  ], {icon: dieMarkierungsCSSClass}).bindPopup( 'MAGE SOLAR Stadion des SC Freiburg in Freiburg'                );
+         const einePunkt007 = L.marker([ 49.239008 , 8.888281  ], {icon: dieMarkierungsCSSClass}).bindPopup( 'Rhein-Neckar Arena von TSG 1899 Hoffenheim in Sinsheim'        );
+         const einePunkt008 = L.marker([ 49.984167 , 8.224167  ], {icon: dieMarkierungsCSSClass}).bindPopup( 'Coface Arena des 1. FSV Mainz 05 in Mainz'                     );
+         const einePunkt009 = L.marker([ 48.792269 , 9.232031  ], {icon: dieMarkierungsCSSClass}).bindPopup( 'Mercedes-Benz Arena des VfB Stuttgart in Stuttgart'            );
+         const einePunkt010 = L.marker([ 53.066394 , 8.837628  ], {icon: dieMarkierungsCSSClass}).bindPopup( 'Weserstadion von Werder Bremen in Bremen'                      );
+         const einePunkt011 = L.marker([ 52.431944 , 10.803889 ], {icon: dieMarkierungsCSSClass}).bindPopup( 'Volkswagen Arena des VfL Wolfsburg in Wolfsburg'               );
+         const einePunkt012 = L.marker([ 53.554444 , 9.967778  ], {icon: dieMarkierungsCSSClass}).bindPopup( 'Millerntor-Stadion des FC St. Pauli in Hamburg'                );
+		 
+         const alleMarkierungen = L.layerGroup([einePunkt001,
+		                                        einePunkt002,
+												einePunkt003,
+												einePunkt004,
+												einePunkt005,
+												einePunkt006,
+												einePunkt007,
+												einePunkt008,
+												einePunkt009,
+												einePunkt010,
+												einePunkt011,
+												einePunkt012]);
+         
+         layerControl.addOverlay(alleMarkierungen, 'Fußballstadien');
+      </script>
+   </body>
+</html>
