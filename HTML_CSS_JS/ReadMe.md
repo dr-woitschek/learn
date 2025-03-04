@@ -46,6 +46,15 @@
    ```
    <div id='map'></div>
    ```
+7. um die Karte mit allen funktionen einzubinden benötigen wir folgenden Code. Die Werte [52.52003, 13.40489] geben den Mittelpunkt von Deutschland an.
+   ```
+   <script>
+      const map = L.map('map').setView([52.52003, 13.40489], 5);
+      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+   	  }).addTo(map);
+   </script>
+   ```
 
 
 
